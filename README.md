@@ -51,4 +51,4 @@ It took 4 operations to reduce the string s (remember that a removal operation o
 - **Simplified Structure**: The code is compact, with clear variable assignments and a direct conditional check for transformation feasibility.
 
 
-## Link for Test: https://onlinegdb.com/BYv8YDuHW
+## Link for Test: https://onlinegdb.com/w7DNqOd4s
